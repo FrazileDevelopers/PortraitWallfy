@@ -7,7 +7,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class Frazile {
   //* Names
-  static const String appName = 'Poratrait Wallfy';
+  static const String appName = 'Portrait Wallfy';
 
   //* Service Caller Settings
   static const String baseURL = "https://api.unsplash.com/search/photos";
