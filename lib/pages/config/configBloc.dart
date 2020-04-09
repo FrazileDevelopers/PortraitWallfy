@@ -35,8 +35,6 @@ class ConfigBloc {
     configBloc.sink.add(darkModeOn);
   }
 
-
- 
   dispose() {
     configBloc.close();
   }
